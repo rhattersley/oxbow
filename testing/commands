@@ -1,0 +1,3 @@
+curl -v http://localhost:8888/scenario/A1B -H 'Accept: text/html'
+curl -v http://localhost:8888/scenario/A1B -H 'Accept: application/prs.coverage+json'
+curl -v http://localhost:8888/expression -H 'Accept: text/html' -X POST --data @subtract.json

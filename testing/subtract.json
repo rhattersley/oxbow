@@ -1,0 +1,7 @@
+{
+    "operation": "-",
+    "args": [
+        "http://localhost:8888/scenario/A1B",
+        "http://localhost:8888/scenario/E1"
+    ]
+}
